@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "photo": "",
+      "firstName": "Tolulope",
+      "lastName": "Lewis",
+      "story": "The services of Vasiti.com is superb. I really enjoyed my shopping.",
+      "customer": false,
+      "vendor": true,
+      "student": "University of Ibadan",
+      "id": 1
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Thomas",
+      "story": "It was awesome.",
+      "customer": false,
+      "vendor": true,
+      "student": "City",
+      "id": 2
+    }
+  ]
+}
